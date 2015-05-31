@@ -1,6 +1,6 @@
 # Implementing a simple assembler in Emacs Lisp
 
-This is my solution to the laste exercise of the [Nand 2 Tetris](https://class.coursera.org/nand2tetris1-001) course from coursera.com. It's an assembler for the very simple symbolic language defined in the course, but it has nice features like automatic variable references and tags to mark program addresses. You can see some examples in the 06/ folder, along with the generated .hack files.
+This is my solution to the latest exercise of the [Nand 2 Tetris](https://class.coursera.org/nand2tetris1-001) course from coursera.com. It's an assembler for the very simple symbolic language defined in the course, but it has nice features like automatic variable references and tags to mark program addresses. You can see some examples in the 06/ folder, along with the generated .hack files.
 
 I chose to solve this exercise in Emacs Lisp to seize the opportunity to learn a bit about this really unique (for these days) language. It was an interesting exercise, no doubts about it. I leave with hunger for more. But, truth be told, the language shows its (ancient) age. Which is cool, in a way. Like a relic from the past. It shows how powerful this primitive lisps really were, and the whole experience this intangible lisp mystique.
 
